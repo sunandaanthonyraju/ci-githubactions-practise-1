@@ -1,2 +1,2 @@
-# CI-GITHUBACTIONS-PRACTISE-1
+# ci-githubactions-practise-1
 githubactions-ci-practisee1
